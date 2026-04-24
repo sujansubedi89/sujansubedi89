@@ -21,7 +21,7 @@ I'm a passionate software student who loves turning ideas into working products.
 - 🛠️ I build projects to solve real problems and sharpen my skills
 - 🟩 **Almost daily committer** — consistently pushing code and building habits
 - 💡 Always curious, always shipping
-- 📫 Reach me at: **sujansubedi89@gmail.com**
+- 📫 Reach me at: **sujansubedinpnp@gmail.com**
 
 ---
 
@@ -62,16 +62,15 @@ I'm a passionate software student who loves turning ideas into working products.
 > 💬 *Actively learning and growing across all these areas — basics to intermediate*
 
 ---
-
 ## 📌 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔗 [**Project Name 1**](https://github.com/sujansubedi89/project-1) | Short description of what it does and the problem it solves | `React` `Node.js` |
-| 🔗 [**Project Name 2**](https://github.com/sujansubedi89/project-2) | Short description of what it does and the problem it solves | `Python` `Django` |
-| 🔗 [**Project Name 3**](https://github.com/sujansubedi89/project-3) | Short description of what it does and the problem it solves | `ML` `Pandas` |
+| 🔗 [**Nepal Trek Connect**](https://github.com/sujansubedi89/Nepal-Trek-Connect) | Nepal Trek Connect is a full-stack web application designed to help adventurers discover, plan, and book their trekking journeys across the beautiful landscapes of Nepal. Whether you're planning to conquer the Everest Base Camp or explore the Annapurna Circuit, Nepal Trek Connect provides a seamless booking experience. | `React` `Node.js` |
+| 🔗 [** MiniPay**](https://github.com/sujansubedi89/MiniPay) | A RESTful digital wallet API built with Django & JWT — supports registration, deposits, peer-to-peer transfers, and transaction history. | `Python` `Django` |
+| 🔗 [**AI-powered-Student-predicter**](https://github.com/sujansubedi89/AI-powered-Student-predicter) | A full-stack web application built with Django and scikit-learn that predicts whether a student will pass or fail based on academic and behavioral features. The app uses a trained Random Forest Classifier to deliver real-time predictions through an intuitive web interface.| `ML` `Pandas` |
 
-> 📌 *Replace these with your real projects — pin your best 4–6 repos on your profile!*
+
 
 ---
 
@@ -97,7 +96,7 @@ I'm actively **open to internships, junior dev roles, and collaboration opportun
 
 If you're hiring or working on something cool — let's talk!
 
-📧 **sujansubedi89@gmail.com** · 🔗 [LinkedIn](https://linkedin.com/in/sujansubedi89)
+📧 **sujansubedinpnp@gmail.com** · 🔗 [LinkedIn](https://linkedin.com/in/sujansubedi89)
 
 ---
 
