@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujansubedi89)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sujansubedi12.com.np)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujansubedi89@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujansubedi89.tech@gmail.com)
 
 </div>
 
@@ -19,7 +19,7 @@ I'm a passionate software student who loves turning ideas into working products.
 - 🎓 Currently studying **Software Development**
 - 🛠️ I build projects to solve real problems and sharpen my skills
 - 💡 Always curious, always shipping
-- 📫 Reach me at: **sujansubedinpnp@gmail.com**
+- 📫 Reach me at: **sujansubedi89.tech@gmail.com**
 
 ---
 
