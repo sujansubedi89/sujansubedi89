@@ -17,9 +17,7 @@
 I'm a passionate software student who loves turning ideas into working products. Whether it's a web app, a script, or a full-stack system — I enjoy the entire process of building things from scratch.
 
 - 🎓 Currently studying **Software Development**
-- 🌱 Exploring: **Full Stack · Data Science · ML · Cloud · Databases**
 - 🛠️ I build projects to solve real problems and sharpen my skills
-- 🟩 **Almost daily committer** — consistently pushing code and building habits
 - 💡 Always curious, always shipping
 - 📫 Reach me at: **sujansubedinpnp@gmail.com**
 
