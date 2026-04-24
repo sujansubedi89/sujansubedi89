@@ -5,7 +5,7 @@
 ### Software Student · Builder · Lifelong Learner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujansubedi89)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sujansubedi89.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sujansubedi12.com.np)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujansubedi89@gmail.com)
 
 </div>
@@ -70,25 +70,6 @@ I'm a passionate software student who loves turning ideas into working products.
 | 🔗 [** MiniPay**](https://github.com/sujansubedi89/MiniPay) | A RESTful digital wallet API built with Django & JWT — supports registration, deposits, peer-to-peer transfers, and transaction history. | `Python` `Django` |
 | 🔗 [**AI-powered-Student-predicter**](https://github.com/sujansubedi89/AI-powered-Student-predicter) | A full-stack web application built with Django and scikit-learn that predicts whether a student will pass or fail based on academic and behavioral features. The app uses a trained Random Forest Classifier to deliver real-time predictions through an intuitive web interface.| `ML` `Pandas` |
 
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujansubedi89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujansubedi89&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujansubedi89&layout=compact&theme=tokyonight&hide_border=true)
-
-> 🟩 **Consistency is my superpower.** Almost daily commits — building in public.
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
